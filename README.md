@@ -1,4 +1,4 @@
-# Machine Learning - Some notebooks in python
+# Machine Learning - Some notebooks in python AND R
 
 ### Notebook about my course in UDEMY #course about logistic regression and credit scoring (boosting_aula7.ipynb):
 https://www.udemy.com/course/formacao-data-science-criacao-de-um-credit-score-com-python/?referralCode=882992CCAE069096EA4A
