@@ -36,4 +36,8 @@ https://www.udemy.com/course/formacao-data-science-boosting-com-python/?referral
 #### 07-TermosCitados.R
 #### 08-Basket.R
 
+## Genetic Alg
+
+#### pgm_Evolutivos_v2.Rmd
+
 
